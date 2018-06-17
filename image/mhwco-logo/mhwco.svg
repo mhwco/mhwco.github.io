@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="600" viewBox="0 0 2400 600">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #00a0e9;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #00a0e9;
+      }
+    </style>
+  </defs>
+  <path id="形状_6" data-name="形状 6" class="cls-1" d="M1500,0H300C135.425,0,0,135.425,0,300S135.425,600,300,600H1500V0Z"/>
+  <path id="形状_1" data-name="形状 1" class="cls-2" d="M200,500L300,100,400,400,500,100,600,500"/>
+  <path id="形状_1_拷贝" data-name="形状 1 拷贝" class="cls-2" d="M1400,107.153L1300,507,1200,207.115,1100,507,1000,107.153"/>
+  <path id="形状_2" data-name="形状 2" class="cls-2" d="M700,100V500"/>
+  <path id="形状_3" data-name="形状 3" class="cls-2" d="M700,300H900"/>
+  <path id="形状_4" data-name="形状 4" class="cls-2" d="M900,100V500"/>
+  <circle id="椭圆_2" data-name="椭圆 2" class="cls-3" cx="2200" cy="300" r="200"/>
+  <path id="形状_5" data-name="形状 5" class="cls-4" d="M1923,138.626c-35.41-25.2-75.55-39.454-116.97-38.589C1712.35,101.991,1606,181.147,1606,300c0,118.936,106.41,198.008,200.03,199.963,41.42,0.866,81.56-13.387,116.97-38.589"/>
+</svg>
